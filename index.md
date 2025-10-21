@@ -1,10 +1,49 @@
-# Tejas Sridhar
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+  <!-- Text block -->
+  <div style="text-align:center;">
+    <h2 style="margin-bottom:4px;">Tejas Sridhar</h2>
+    <p style="margin-top:0; font-style:italic;">Senior Data Scientist&nbsp;|&nbsp;Educator&nbsp;|&nbsp;Researcher</p>
+    <p style="margin-top:6px;">
+      <a href="mailto:tejassridhar.acad@gmail.com">Email</a> &nbsp;|&nbsp;
+      <a href="https://linkedin.com/in/tejas-sridhar">LinkedIn</a> |
+      <a> (385) 212-6841
+    </p>
+  </div>
+</div>
 
-(385) 212-6841 | [tejassridhar.acad@gmail.com](mailto:tejassridhar.acad@gmail.com) | linkedin.com/in/tejas-sridhar
+<div style="
+  border-left: 6px solid #004d66;
+  background: linear-gradient(to right, #f9f9f9, #ffffff);
+  padding: 20px 25px;
+  margin: 25px 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+">
 
-## SUMMARY
+  <h2 style="color:#004d66; text-align:center; letter-spacing:1px; margin-top:0;">SUMMARY</h2>
 
-Senior Data Scientist in the Research & Development team at Swire Coca-Cola USA with over 6 years of corporate experience across analytics, AI, and applied machine learning. Passionate about teaching and inspiring students in the fields of data science and business analytics, as evidenced by course development and teaching experience across North America, Asia, and the Middle East. Experienced in teaching graduate and executive courses in Business Analytics, Artificial Intelligence, Machine Learning, Statistics, and Decision Modeling, with consistently high student evaluations (average 4.8/5). Capable of designing, developing, and delivering rigorous, industry-relevant courses that integrate real-world case studies and technologies such as Python, Azure, and Databricks. Brings extensive applied experience from the consumer goods, manufacturing, and technology sectors into the classroom to connect theory with practice and motivate learners to think analytically and creatively.
+  <p style="font-size:15.5px; line-height:1.6; color:#333;">
+  <strong>Senior Data Scientist</strong> in the <em>Research & Development</em> team at <strong>Swire Coca-Cola USA</strong> 
+  with over <strong>6 years of corporate experience</strong> across analytics, AI, and applied machine learning. 
+  Passionate about <strong>teaching and inspiring students</strong> in the fields of data science and business analytics, 
+  as evidenced by course development and teaching experience across <strong>North America, Asia, and the Middle East</strong>.
+  </p>
+
+  <p style="font-size:15.5px; line-height:1.6; color:#333;">
+  Experienced in teaching graduate and executive courses in 
+  <strong>Business Analytics, Artificial Intelligence, Machine Learning, Statistics, and Decision Modeling</strong>, 
+  with consistently high student evaluations (<em>average 4.8/5</em>). Capable of designing, developing, and delivering 
+  rigorous, industry-relevant courses that integrate real-world case studies and technologies such as 
+  <strong>Python, Azure, and Databricks</strong>.
+  </p>
+
+  <p style="font-size:15.5px; line-height:1.6; color:#333;">
+  Brings extensive applied experience from the <strong>consumer goods, manufacturing, and technology sectors</strong> into the classroom 
+  to connect theory with practice and motivate learners to think analytically and creatively.
+  </p>
+
+</div>
+
 
 ## EDUCATION
 
