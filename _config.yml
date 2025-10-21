@@ -1,0 +1,11 @@
+title: "Tejas Sridhar"
+description: "Data Scientist | Educator | Researcher"
+theme: jekyll-theme-minimal
+logo: /assets/profile.jpg
+show_downloads: true
+github:
+  is_project_page: false
+social_links:
+  linkedin: https://linkedin.com/in/tejas-sridhar
+  github: https://github.com/tejassridharlive
+  email: tejassridhar.acad@gmail.com
