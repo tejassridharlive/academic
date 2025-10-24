@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -17,7 +16,7 @@
     </div>
     <div class="menu" id="menu">
       <a href="/index.html">Home</a>
-      <a href="https://medium.com/@tejassridhar" target="_blank">Blogs</a>
+      <a href="https://medium.com/@tejas-sridhar" target="_blank">Blogs</a>
       <a href="mailto:tejassridhar.acad@gmail.com">Contact</a>
     </div>
   </div>
