@@ -1,13 +1,59 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <!-- Text block -->
-  <div style="text-align:center;">
-    <h2 style="margin-bottom:4px;">Tejas Sridhar</h2>
-    <p style="margin-top:0; font-style:italic;">Senior Data Scientist&nbsp;|&nbsp;Educator&nbsp;|&nbsp;Researcher</p>
-    <p style="margin-top:6px;">
-      <a href="mailto:tejassridhar.acad@gmail.com">Email</a> &nbsp;|&nbsp;
-      <a href="https://linkedin.com/in/tejas-sridhar">LinkedIn</a> |
-      <a> (385) 212-6841
-    </p>
+<div style="
+  position: relative;
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto 40px auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', Arial, sans-serif;
+">
+
+  <!-- Cover Photo -->
+  <div style="
+    width: 100%;
+    height: 220px;
+    background-image: url('assets/coverpicture.jpg');
+    background-size: cover;
+    background-position: center;
+    border-bottom: 3px solid #004d66;
+  ">
+  </div>
+
+  <!-- Profile Info Section -->
+  <div style="
+    position: relative;
+    background: #fff;
+    padding: 70px 20px 20px;
+    text-align: center;
+  ">
+    <!-- Profile Photo -->
+    <img src="assets/profile.jpg" alt="Profile Picture" style="
+      position: absolute;
+      top: -70px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      object-fit: cover;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    ">
+
+  <h2 style="margin: 0; font-size: 26px; color: #004d66;">Tejas Sridhar</h2>
+  <p style="margin: 6px 0 12px; font-size: 16px; color: #333;">
+    Senior Data Scientist&nbsp;|&nbsp;Educator&nbsp;|&nbsp;Researcher
+  </p>
+
+  <!-- Contact Links -->
+  <p style="margin: 0; font-size: 15px;">
+    <a href="mailto:tejassridhar.acad@gmail.com" style="color:#004d66; text-decoration:none;">Email</a>
+    &nbsp;|&nbsp;
+    <a href="https://linkedin.com/in/tejas-sridhar" style="color:#004d66; text-decoration:none;">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <span style="color:#333;">+1 (385) 212-6841</span>
+  </p>
   </div>
 </div>
 
@@ -32,7 +78,7 @@
   <p style="font-size:15.5px; line-height:1.6; color:#333;">
   Experienced in teaching graduate and executive courses in 
   <strong>Business Analytics, Artificial Intelligence, Machine Learning, Statistics, and Decision Modeling</strong>, 
-  with consistently high student evaluations (<em>average 4.8/5</em>). Capable of designing, developing, and delivering 
+  with consistently high student evaluations. Capable of designing, developing, and delivering 
   rigorous, industry-relevant courses that integrate real-world case studies and technologies such as 
   <strong>Python, Azure, and Databricks</strong>.
   </p>
@@ -44,171 +90,941 @@
 
 </div>
 
+<!-- EDUCATION SECTION -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif; 
+  color: #333; 
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
 
-## EDUCATION
+  <h2 style="
+    color: #004d66; 
+    letter-spacing: 1px; 
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 20px;
+  ">
+    EDUCATION
+  </h2>
 
-| **Master of Science, Business Analytics**<br><br>University of Utah - David Eccles School of Business | Salt Lake City, UT | 2023 |
-| --- | --- | --- |
-|     |     |     |
-| **Faculty Development Program - Case Based Teaching and Research**<br><br>N. L. Dalmia Institute of Management Studies and Research | Mumbai, IN | 2023 |
-|     |     |     |
-| **Integrated Program (E-MBA) in Business Analytics**<br><br>Indian Institute of Management | Indore, IN | 2021 |
-|     |     |     |
-| **Faculty Development Program - Case Based Teaching and Research**<br><br>Indian Institute of Management | Indore, IN | 2020 |
-|     |     |     |
-| **Management Development Program - Marketing Analytics**<br><br>Symbiosis Institute of Business Management | Pune, IN | 2019 |
-|     |     |     |
-| **Postgraduate Program in Data Science and Entrepreneurship**<br><br>Indian School of Management and Entrepreneurship<br><br>Awards and Recognition: Emerging Leader Award, Valedictorian | Mumbai, IN | 2019 |
-|     |     |     |
-| **Bachelor of Business Administration - Business and Quantitative Economics**<br><br>University of Mumbai<br><br>Thesis: Corporate Governance for PII in Digital Marketing Practices<br><br>Advisor: Dr Rinkesh Chheda | Mumbai, IN | 2018 |
+  <div style="display: flex; flex-direction: column; gap: 20px;">
 
-## PROFESSIONAL CERTIFICATIONS
+  <!-- Entry 1 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Master of Science, Business Analytics</p>
+      <p style="margin: 4px 0 0; font-style: italic;">University of Utah - David Eccles School of Business</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Salt Lake City, UT</p>
+      <p style="margin: 0;">2023</p>
+    </div>
+  </div>
 
-| **ITIL 4 Foundation** | 2025 |
-| --- | --- |
-|     |     |
-| **Lean Six Sigma Green Belt** | 2019 |
-|     |     |
-| **Certified Scrum Master** | 2019 |
+  <!-- Entry 2 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Faculty Development Program - Case Based Teaching and Research</p>
+      <p style="margin: 4px 0 0; font-style: italic;">N. L. Dalmia Institute of Management Studies and Research</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">2023</p>
+    </div>
+  </div>
 
-## ACADEMIC APPOINTMENTS AS INSTRUCTOR OF RECORD
+  <!-- Entry 3 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Integrated Program (E-MBA) in Business Analytics</p>
+      <p style="margin: 4px 0 0; font-style: italic;">Indian Institute of Management</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Indore, IN</p>
+      <p style="margin: 0;">2021</p>
+    </div>
+  </div>
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Professor - Business Analytics and AI</strong></p><p>Engage7x Consulting</p><ul><li>Co-developed and launched a national-level MOOC in Analytics, Data Science, and AI in collaboration with industry leaders in marketing, strategy, and blockchain.</li><li>Designed and co-created curricula with industry partners, integrating applied analytics for finance, marketing, HR, and operations domains.</li><li>Supervised and mentored 150+ research projects and papers, guiding students from India's top business schools.</li><li>Delivered masterclasses and virtual lectures on data mining, statistical research methods, data ethics, and innovation in analytics education.</li></ul></th><th><p>Mumbai, IN (Remote)</p><p>April 2020 - Present</p></th></tr><tr><td></td><td></td></tr><tr><td><p><strong>Visiting Professor - Statistics and Machine Learning</strong></p><p>NMIMS Global Access School</p><ul><li>Instructed Graduate Level Coursework at Executive MBA cohorts' courses in Exploratory Data Analysis, Python, Data Mining, Machine Learning, Advanced Statistics, SQL, Big Data Analytics, Tableau, and Digital Marketing Analytics.</li><li>Designed and facilitated case-based learning modules demonstrating analytics applications in retail and core business strategy contexts.</li></ul></td><td><p>Mumbai, IN (Remote)</p><p>July 2021 - October 2022</p></td></tr><tr><td></td><td></td></tr><tr><td><p><strong>Visiting Lecturer - Microsoft Azure AI and Machine Learning</strong></p><p>Nuclei Technologies</p><ul><li>Instructed engineering and business school cohorts, as well as corporate clients including Deloitte India and the National Skill Development Corporation (NSDC), on Microsoft Azure and Azure ML Studio.</li><li>Delivered comprehensive training across Microsoft certification tracks - DP-100 (Data Science on Azure), AI-900 (AI Fundamentals), and AZ-900 (Cloud Fundamentals).</li><li>Designed and implemented AI and ML curricula for high school programs, introducing early learners to cloud-based analytics and machine learning concepts.</li></ul></td><td><p>Mumbai, IN (Remote)</p><p>September 2020 - December 2021</p></td></tr><tr><td></td><td></td></tr><tr><td><p><strong>Core Faculty - Test Preparation and Admissions Strategy</strong></p><p>CATKing Educare</p><ul><li>Developed course plans, teaching schedules, and MBA admissions strategies across six centers, serving over 1,200 students in collaboration with alumni from Harvard Business School and the Indian Institutes of Management (IIMs).</li><li>Collaborated with faculty from top business schools, partner institutes, and NGOs to design and implement student profile enhancement frameworks for MBA and graduate aspirants.</li><li>Taught and mentored candidates for standardized exams including CAT, CET, GRE, GMAT, and IELTS, emphasizing verbal reasoning, reading comprehension, and personalized study methodologies.</li><li>Facilitated coordination between students, universities, and partner NGOs, providing tailored mentorship and strategic application guidance.</li><li>Developed dashboards, mock examinations, and lecture modules for GRE preparation and admissions counseling.</li><li>Provided individualized mentorship resulting in over 200 successful admissions to Tier-1 management and technical programs in India and abroad.</li></ul></td><td><p>Mumbai, IN</p><p>July 2019 - November 2021</p></td></tr></tbody></table></div>
+  <!-- Entry 4 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Faculty Development Program - Case Based Teaching and Research</p>
+      <p style="margin: 4px 0 0; font-style: italic;">Indian Institute of Management</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Indore, IN</p>
+      <p style="margin: 0;">2020</p>
+    </div>
+  </div>
 
-## ACADEMIC APPOINTMENTS AS TEACHING/RESEARCH ASSISTANT
+  <!-- Entry 5 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Management Development Program - Marketing Analytics</p>
+      <p style="margin: 4px 0 0; font-style: italic;">Symbiosis Institute of Business Management</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Pune, IN</p>
+      <p style="margin: 0;">2019</p>
+    </div>
+  </div>
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Graduate Teaching Assistant - Frameworks and Decision Models in Management Analytics</strong></p><p>University of Utah - David Eccles School of Business</p><ul><li>Supported undergraduate instruction in quantitative modeling, optimization, and data-driven managerial decision-making.</li><li>Facilitated labs, grading, and mentoring for Business major students, reinforcing applied problem-solving using Excel Solver and Python-based analytics.</li></ul></th><th><p>Salt Lake City, UT</p><p>January 2022 - May 2022</p></th></tr><tr><td></td><td></td></tr><tr><td><p><strong>Graduate Teaching Fellow - Test Preparation and Admissions Strategy</strong></p><p>CATKing Educare</p><ul><li>Collaborated with senior faculty in designing instructional materials and refining teaching frameworks for entrance examinations including CAT, CET, GRE, and GMAT.</li><li>Assisted in curriculum planning and delivery pilots, contributing to the early rollout of verbal reasoning and reading comprehension modules.</li><li>Conducted small-group tutorials and individualized coaching sessions, supporting students in analytical writing and comprehension techniques.</li><li>Participated in faculty coordination meetings to enhance cross-branch consistency in teaching methods and evaluation practices.</li></ul></td><td><p>Mumbai, IN</p><p>June 2019 - July 2019</p></td></tr><tr><td></td><td></td></tr><tr><td><p><strong>Advisor to the Economics Society</strong></p><p>Indian School of Management and Entrepreneurship</p><ul><li>Advised and mentored undergraduate Economics majors in developing student-led research initiatives, case study archives, and policy think-tank activities.</li><li>Collaborated with faculty, including Professor Aditya Kashyap (Associate Director, Centre for Economic Policy), to organize seminars, conventions, and finance-policy outreach programs.</li><li>Led academic events and simulations analyzing World Economic Forum sessions, national policy shifts, and the broader implications of political economies.</li><li>Hosted and moderated public discussions on the Union Budget's macroeconomic impact and its influence on India's global financial standing.</li></ul></td><td><p>Mumbai, IN</p><p>February 2019 - July 2019</p></td></tr><tr><td></td><td></td></tr><tr><td><p><strong>Graduate Teaching Assistance - Marketing Analytics</strong></p><p>Indian School of Management and Entrepreneurship</p><ul><li>Collaborated with Dr. Anshul Gupta (Head, Centre for Business Analytics) to develop, structure, and deliver the Marketing Analytics curriculum within the School of Marketing Communications.</li><li>Delivered lectures and case-based sessions integrating media analytics, retail strategy, and market research applications.</li><li>Assisted in exam design and evaluation, focusing on data-driven decision-making, product pricing experiments, and small-scale randomized control trials (RCTs).</li><li>Facilitated a marketing analytics bootcamp for engineering graduates transitioning into MBA programs, demonstrating the convergence of engineering, marketing, and technology in business contexts.</li></ul></td><td><p>Mumbai, IN</p><p>October 2018 - June 2019</p></td></tr><tr><td></td><td></td></tr><tr><td><p><strong>Research Associate</strong></p><p>Egyptian Association for Comprehensive Development</p><ul><li>Conducted interdisciplinary research on social analytics and human-development indices, focusing on women's empowerment and female entrepreneurship.</li><li>Led an international research team from Japan, Pakistan, the U.S., Turkey, and Australia to produce white papers and strategic models for economic-index development.</li><li>Designed and analyzed randomized controlled trials (RCTs) and behavioral-economics models for digital fundraising and engagement campaigns targeting youth and student bodies in Egypt.</li><li>Collaborated with partner institutions including the United Nations Development Programme (UNDP), British University in Egypt, Nile University, and Hossam Loutfi Law Firm to integrate legal, policy, and economic perspectives in social-equity research.</li></ul></td><td><p>Cairo, EG</p><p>December 2017 - February 2018</p></td></tr></tbody></table></div>
+  <!-- Entry 6 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Postgraduate Program in Data Science and Entrepreneurship</p>
+      <p style="margin: 4px 0 0; font-style: italic;">Indian School of Management and Entrepreneurship</p>
+      <p style="margin: 4px 0 0;">Awards and Recognition: Emerging Leader Award, Valedictorian</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">2019</p>
+    </div>
+  </div>
 
-## RESEARCH EXPERIENCE / PUBLICATIONS
+  <!-- Entry 7 -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Bachelor of Business Administration - Business and Quantitative Economics</p>
+      <p style="margin: 4px 0 0; font-style: italic;">University of Mumbai</p>
+      <p style="margin: 4px 0 0;">Thesis: <em>Corporate Governance for PII in Digital Marketing Practices</em></p>
+      <p style="margin: 4px 0 0;">Advisor: Dr. Rinkesh Chheda</p>
+    </div>
+    <div style="text-align: right; min-width: 160px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">2018</p>
+    </div>
+  </div>
+  </div>
+</div>
 
-**Manuscripts in Preparation:**
 
-- Agogo, D., & Sridhar, T. (in preparation). _Reframing the CRISP-DM Framework: Integrating Modern AI Pipelines for Business Analytics Education._ University of Utah, David Eccles School of Business.
+<!-- PROFESSIONAL CERTIFICATIONS SECTION -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif; 
+  color: #333; 
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
 
-**Selected Applied Research and Case Studies:**
+  <h2 style="
+    color: #004d66; 
+    letter-spacing: 1px; 
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 20px;
+  ">
+    PROFESSIONAL CERTIFICATIONS
+  </h2>
 
-- Behavioral Bayesian Modeling in cognitive bias processing in consumer analytics, 2024.
-- Temporal Association Rule Mining in Preventive Maintenance, 2024.
-- Agile frameworks in the context of AI in short-sprint product organizations, 2024.
+  <div style="display: flex; flex-direction: column; gap: 20px;">
 
-**Research Interests:** Applied Machine Learning, Maintenance Analytics, Human-AI Collaboration, Data-Driven Decision-Making, Operations Optimization, and Business Analytics Education.
+  <!-- ITIL -->
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <p style="margin: 0; font-weight: 600;">ITIL 4 Foundation</p>
+    <p style="margin: 0;">2025</p>
+  </div>
 
-## TEACHING PORTFOLIO
+  <!-- Lean Six Sigma -->
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <p style="margin: 0; font-weight: 600;">Lean Six Sigma Green Belt</p>
+    <p style="margin: 0;">2019</p>
+  </div>
 
-My teaching philosophy emphasizes experiential learning through data-driven inquiry, connecting statistical and computational concepts to real-world business contexts. I encourage analytical reasoning, collaboration, and applied experimentation in every course. Analytical thinking in models, as I believe, is the core foundation to design experiments and advance scientific enquiry in any field.
+  <!-- CSM -->
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <p style="margin: 0; font-weight: 600;">Certified Scrum Master</p>
+    <p style="margin: 0;">2019</p>
+  </div>
 
-| **Institution** | **Course** | **Role** | **Level** | **Term** |
-| --- | --- | --- | --- | --- |
-| Engage7x Consulting | Intro To Business Analytics | Professor | Graduate | Fall 2020 - Present |
-| Engage7x Consulting | Intro To Artificial Intelligence | Professor | Graduate | Spring 2025 - Present |
-| University Of Utah | Frameworks and Decision Models in Management Analytics | Teaching Assistant | Undergraduate | Spring 2022 |
-| NMIMS Global Access School | Exploratory Data Analytics, Big Data, and SQL | Professor | Graduate | Fall 2021 - Spring 2022 |
-| NMIMS Global Access School | Business Statistics for Decision Makers | Professor | Graduate | Fall 2021 - Spring 2022 |
-| Nuclei Technologies | Microsoft Azure AI and Machine Learning | Professor | Professional | Fall 2020 - Spring 2022 |
-| Indian School of Management and Entrepreneurship | Econometrics for Policy | Teaching Assistant | Undergraduate | Fall 2019 |
-| Indian School of Management and Entrepreneurship | Intro To Marketing Analytics | Teaching Assistant | Undergraduate | Spring 2019 |
+  </div>
+</div>
 
-Courses Taught:
+<!-- ACADEMIC APPOINTMENTS SECTION -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif; 
+  color: #333; 
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
 
-- Intro To Business Analytics
-  - Level: Graduate
-  - Institution/Year: Engage7x Consulting, Fall 2020 - Present
-  - Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Machine Learning Methods and Data Mining Methodologies.
-- Intro To Artificial Intelligence
-  - Level: Graduate
-  - Institution/Year: Engage7x Consulting, Spring 2025 - Present
-  - Large Language Models, RAGs, Agents, Neural Networks, Lang Chain, Agentic AI, Model training and parameter tuning.
-- Frameworks and Decision Models in Management Analytics
-  - Level: Undergraduate
-  - Institution/Year: University of Utah, Spring 2022
-  - Distribution of data, Probability, Normal Distribution and Linear Programming problems.
-- Exploratory Data Analytics, Big Data, and SQL
-  - Level: Graduate
-  - Institution/Year: NMIMS Global Access School, Fall 2021 - Spring 2022
-  - SQL, Introduction to Python, Identifying Outliers, Descriptive Statistics, PySpark.
-- Business Statistics for Decision Makers
-  - Level: Graduate
-  - Institution/Year: NMIMS Global Access School, Fall 2021 - Spring 2022
-  - Normal Distributions, Probability Theory, Bayesian Statistics, Descriptive Statistics, Inferential Statistics, A/B Testing.
-- Microsoft Azure AI and Machine Learning
-  - Level: Professional
-  - Institution/Year: Nuclei Technologies, Fall 2020 - Spring 2022
-  - Introduction to Cloud, Azure Machine Learning, Azure AI, Course Content for DP-100, AZ-900, AI-100.
-- Econometrics for Policy
-  - Level: Undergraduate
-  - Institution/Year: Indian School of Management and Entrepreneurship, Fall 2019
-  - Regression Analyses, Ordinary Least Squares, Partial Least Squares, Instrumental Variables, Causality and Correlation, Inferential Statistics, Hypothesis Testing
-- Intro To Marketing Analytics
-  - Level: Undergraduate
-  - Institution/Year: Indian School of Management and Entrepreneurship, Spring 2019
-  - Data Mining, ML Models- Regression, Classification, Clustering, Probability and Descriptive Statistics
+  <h2 style="
+    color: #004d66; 
+    letter-spacing: 1px; 
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 25px;
+  ">
+    ACADEMIC APPOINTMENTS AS INSTRUCTOR OF RECORD
+  </h2>
 
-Curriculum and Pedagogical Innovation:
+  <div style="display: flex; flex-direction: column; gap: 25px;">
 
-- Developed first-of-its-kind MOOC in Analytics and AI for early-career MBAs.
-- Introduced simulation-based learning for Business Decision Making.
-- Implemented case-based learning pedagogy for EDA and Machine Learning courses.
+  <!-- Engage7x Consulting -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Professor – Business Analytics and AI</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">Engage7x Consulting</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Co-developed and launched a national-level MOOC in Analytics, Data Science, and AI in collaboration with industry leaders in marketing, strategy, and blockchain.</li>
+        <li>Designed and co-created curricula with industry partners, integrating applied analytics for finance, marketing, HR, and operations domains.</li>
+        <li>Supervised and mentored 150+ research projects and papers, guiding students from India's top business schools.</li>
+        <li>Delivered masterclasses and virtual lectures on data mining, statistical research methods, data ethics, and innovation in analytics education.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN (Remote)</p>
+      <p style="margin: 0;">April 2020 – Present</p>
+    </div>
+  </div>
 
-Mentorship and Advising:
+  <!-- NMIMS -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Visiting Professor – Statistics and Machine Learning</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">NMIMS Global Access School</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Instructed Executive MBA cohorts in Exploratory Data Analysis, Python, Data Mining, Machine Learning, Advanced Statistics, SQL, Big Data Analytics, Tableau, and Digital Marketing Analytics.</li>
+        <li>Designed and facilitated case-based learning modules demonstrating analytics applications in retail and business strategy contexts.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN (Remote)</p>
+      <p style="margin: 0;">July 2021 – October 2022</p>
+    </div>
+  </div>
 
-- Supervised 150+ research papers and applied analytics projects.
-- Advised 200+ students on MBA admissions and case-competition strategy.
+  <!-- Nuclei Technologies -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Visiting Lecturer – Microsoft Azure AI and Machine Learning</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">Nuclei Technologies</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Taught engineering and business cohorts, and corporate clients including Deloitte India and the National Skill Development Corporation (NSDC), on Microsoft Azure and Azure ML Studio.</li>
+        <li>Delivered comprehensive training across certification tracks – DP-100 (Data Science on Azure), AI-900 (AI Fundamentals), and AZ-900 (Cloud Fundamentals).</li>
+        <li>Developed AI and ML curricula for high school programs, introducing early learners to cloud-based analytics and machine learning concepts.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN (Remote)</p>
+      <p style="margin: 0;">September 2020 – December 2021</p>
+    </div>
+  </div>
 
-Teaching Effectiveness:
+  <!-- CATKing Educare -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Core Faculty – Test Preparation and Admissions Strategy</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">CATKing Educare</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Developed course plans, teaching schedules, and MBA admissions strategies across six centers, serving 1,200+ students alongside alumni from Harvard Business School and the IIMs.</li>
+        <li>Collaborated with faculty from leading business schools and NGOs to design student profile enhancement frameworks for graduate admissions.</li>
+        <li>Taught and mentored candidates for exams including CAT, CET, GRE, GMAT, and IELTS, emphasizing reasoning, comprehension, and personalized study methods.</li>
+        <li>Led coordination among students, universities, and NGOs, offering tailored mentorship and strategic application guidance.</li>
+        <li>Developed dashboards, mock examinations, and lecture modules for GRE preparation and admissions counseling.</li>
+        <li>Provided individualized mentorship resulting in 200+ successful admissions to Tier-1 management and technical programs globally.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">July 2019 – November 2021</p>
+    </div>
+  </div>
 
-- Average teaching evaluation: 4.8/5 across 2 consecutive semesters (Executive MBA Analytics Cohort, NMIMS)
+  </div>
+</div>
 
-Teaching Tools and Methods:
 
-- Python, R, SQL, Power BI, Tableau, Excel Solver, Databricks, Snowflake, Azure ML, Microsoft Power Platform, Streamlit, case-based learning, flipped classrooms, MOOC platforms.
 
-## INVITED TALKS / PANELS / ACADEMIC ENGAGEMENTS
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>University of Utah - David Eccles School of Business</strong></p><ul><li>Panelist, "MSBA Incoming Student Orientation"</li><li>Panelist, "International Students Orientation in MSBA and MSIS"</li><li>Panelist, "Data Scientist Industry Perspectives"</li><li>Guest Speaker, "AI Project Management"</li></ul></th><th><p>August 2023</p><p>September 2023</p><p>March 2025</p><p>October 2025</p></th></tr><tr><td></td><td></td></tr><tr><td><p>Served as Executive Board Member for multiple international Model UN Councils</p></td><td><p>2019 - 2020</p></td></tr><tr><td></td><td></td></tr><tr><td><p>Regular Mentor and Adjudicator for national and international MUN and debate events</p></td><td><p>2018 - 2021</p></td></tr></tbody></table></div>
+<!-- ACADEMIC APPOINTMENTS AS TEACHING / RESEARCH ASSISTANT -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif; 
+  color: #333; 
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
 
-## PROFESSIONAL EXPERIENCE
+  <h2 style="
+    color: #004d66; 
+    letter-spacing: 1px; 
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 25px;
+  ">
+    ACADEMIC APPOINTMENTS AS TEACHING / RESEARCH ASSISTANT
+  </h2>
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Senior Data Scientist - Research and Development</strong></p><p>Swire Coca-Cola USA</p><ul><li>Developed and deployed large-language-model (LLM) frameworks in Microsoft Azure OpenAI for advanced analytics and automation use cases.</li><li>Co-created an LLM-driven ETL pipeline for procurement invoice processing with the Data Engineering team, improving data structuring and reducing manual intervention.</li><li>Conducted pilot studies in predictive maintenance, testing equipment-asset strategy models for expansion across multi-plant operations.</li><li>Partnered with IT and leadership to define team growth strategy, contributing to onboarding initiatives, technical-maturity development, and project-costing methodologies for a newly implemented IT Operating Model.</li></ul></th><th><p>Draper, UT</p></th><th><p>May 2025 - Present</p></th></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Data Scientist - Research and Development</strong></p><p>Swire Coca-Cola, USA</p></td><td><p>Draper, UT</p></td><td><p>July 2024 - May 2025</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Data Scientist - Enterprise Research and Analytics</strong></p><p>Swire Coca-Cola, USA</p></td><td><p>Draper, UT</p></td><td><p>June 2023 - July 2024</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Data Science Intern - Macroeconomics</strong></p><p>Wheeler Machinery Company (Caterpillar Mining Equipment)</p></td><td><p>Salt Lake City, UT</p></td><td><p>February 2022 - March 2022</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Group Head - Analytics, Insights and Strategy</strong></p><p>Kren Martech</p></td><td><p>Mumbai, IN</p></td><td><p>August 2020 - July 2021</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Avionics Engineer</strong></p><p>Space Technology and Aeronautical Rocketry</p></td><td><p>Surat, IN</p></td><td><p>October 2020 - November 2020</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Senior Data Analyst</strong></p><p>WNS Global Services</p></td><td><p>Mumbai, IN</p></td><td><p>October 2019 - January 2020</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Client Solutions Engineer - Martech</strong></p><p>VMLY&amp;R Asia</p></td><td><p>Mumbai, IN</p></td><td><p>June 2019 - October 2019</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Risk Analytics Intern</strong></p><p>TransAsia Risk Advisors</p></td><td><p>Mumbai, IN</p></td><td><p>April 2019 - June 2019</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td><p><strong>Intern - Brand Collaborations</strong></p><p>The Paperless Postcards Venture Pvt Ltd</p></td><td><p>Mumbai, IN</p></td><td><p>April 2017 - June 2017</p></td></tr></tbody></table></div>
+  <div style="display: flex; flex-direction: column; gap: 25px;">
 
-## TECHNICAL AND ANALYTICAL COMPETENCIES
+  <!-- University of Utah -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Graduate Teaching Assistant – Frameworks and Decision Models in Management Analytics</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">University of Utah – David Eccles School of Business</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Supported undergraduate instruction in quantitative modeling, optimization, and data-driven managerial decision-making.</li>
+        <li>Facilitated labs, grading, and mentoring for Business major students, reinforcing applied problem-solving using Excel Solver and Python-based analytics.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Salt Lake City, UT</p>
+      <p style="margin: 0;">January 2022 – May 2022</p>
+    </div>
+  </div>
 
-- Programming and Data Analysis:
-  - Python (NumPy, Pandas, Scikit-learn, Statsmodels, Plotly, Matplotlib, Seaborn), R (tidyverse, caret), SQL, PySpark, Databricks Notebooks, Jupyter, Excel.
-- Machine Learning and Statistical Modeling:
-  - Regression and Classification Models, Time-Series Forecasting, Survival Analysis, Crow-AMSAA Reliability Models, Clustering and Segmentation, ANOVA, Hypothesis Testing, NLP, and LLM Applications.
-- Data Engineering and Cloud Platforms:
-  - Microsoft Azure (Azure ML, Blob Storage, OpenAI Service), Azure DevOps, Power Automate, Power BI, Snowflake, Tableau, Streamlit.
-- Operations and Reliability Analytics:
-  - Preventive Maintenance Modeling, MTTR/MTBF/MTBR Analysis, Risk and Safety Analytics, Reliability Growth Modeling, Linear Programming and Process Optimization Frameworks.
-- Project Management and Methodologies:
-  - Agile, Scrum, Lean Six Sigma (Green Belt Certified), ITIL4 Foundation, Design Thinking, and Change Management.
-- Business and Domain Expertise:
-  - Supply Chain and Operations Analytics, Manufacturing Reliability, Safety and Risk Analytics, Marketing Analytics, and Financial Forecasting.
-- Productivity and Collaboration Tools:
-  - Microsoft 365, PowerPoint (Data Storytelling), GitHub, SharePoint.
+  <!-- CATKing Educare (Graduate Teaching Fellow) -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Graduate Teaching Fellow – Test Preparation and Admissions Strategy</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">CATKing Educare</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Collaborated with senior faculty in designing instructional materials and refining teaching frameworks for CAT, CET, GRE, and GMAT examinations.</li>
+        <li>Assisted in curriculum planning and delivery pilots for verbal reasoning and reading comprehension modules.</li>
+        <li>Conducted small-group tutorials and individualized coaching sessions, supporting students in analytical writing and comprehension techniques.</li>
+        <li>Participated in faculty coordination meetings to enhance teaching consistency and evaluation practices.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">June 2019 – July 2019</p>
+    </div>
+  </div>
 
-## HONORS AND AWARDS
+  <!-- ISME (Advisor to Economics Society) -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Advisor to the Economics Society</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">Indian School of Management and Entrepreneurship</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Advised undergraduate Economics majors in developing student-led research initiatives, case archives, and policy think-tank activities.</li>
+        <li>Collaborated with Professor Aditya Kashyap (Centre for Economic Policy) to organize seminars, conventions, and finance-policy outreach programs.</li>
+        <li>Led academic simulations analyzing World Economic Forum sessions, national policy shifts, and global economic implications.</li>
+        <li>Moderated public discussions on Union Budget analysis and India’s macroeconomic positioning.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">February 2019 – July 2019</p>
+    </div>
+  </div>
 
-**Academic and Research Honors**
+  <!-- ISME (Marketing Analytics) -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Graduate Teaching Assistant – Marketing Analytics</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">Indian School of Management and Entrepreneurship</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Collaborated with Dr. Anshul Gupta (Head, Centre for Business Analytics) to develop and deliver the Marketing Analytics curriculum within the School of Marketing Communications.</li>
+        <li>Delivered case-based sessions integrating media analytics, retail strategy, and market research applications.</li>
+        <li>Assisted in exam design and evaluation on pricing experiments, data-driven decisions, and RCTs.</li>
+        <li>Facilitated a marketing analytics bootcamp for engineering graduates transitioning into MBA programs.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Mumbai, IN</p>
+      <p style="margin: 0;">October 2018 – June 2019</p>
+    </div>
+  </div>
 
-- Emerging Leader Award (Valedictorian), Indian School of Management and Entrepreneurship, 2019
-- Youth Leadership Award, Rotaract Club of Mumbai, 2019
-- Academic Excellence Award as Student Mentor, CATKing Educare, 2018
-- National Policy Essay Writing Competition - Winner, United Nations Information Center for India and Bhutan, 2014
-- Intracollegiate Business Case Competition - Winner, 2017; Runner-Up, 2016
-- Interstate Science Competition Series - Winner, Iken Scientifica, 2009
+  <!-- Egyptian Association for Comprehensive Development -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p style="margin: 0; font-weight: 600;">Research Associate</p>
+      <p style="margin: 4px 0 8px; font-style: italic;">Egyptian Association for Comprehensive Development</p>
+      <ul style="margin: 0 0 0 20px; padding-left: 0;">
+        <li>Conducted interdisciplinary research on social analytics and human-development indices focused on women's empowerment and entrepreneurship.</li>
+        <li>Led a global research team across Japan, Pakistan, the U.S., Turkey, and Australia to produce white papers and economic index models.</li>
+        <li>Designed and analyzed RCTs and behavioral-economics models for digital fundraising and engagement campaigns.</li>
+        <li>Collaborated with UNDP, British University in Egypt, and Nile University to integrate legal, policy, and economic perspectives in social-equity research.</li>
+      </ul>
+    </div>
+    <div style="text-align: right; min-width: 200px;">
+      <p style="margin: 0;">Cairo, EG</p>
+      <p style="margin: 0;">December 2017 – February 2018</p>
+    </div>
+  </div>
 
-**Literary and Public-Speaking Achievements (Selected Highlights)**
+  </div>
+</div>
 
-- Multiple first-place awards in intercollegiate debates, elocutions, and group discussions (2015-2018), including Best Speaker and Best Delegate distinctions.
-- Recognized as Outstanding Delegate and Executive Board Member at National Model United Nations Councils (UNSC, UNHRC, WHO, ECOSOC, SAARC, ICJ).
-- Runner-Up, Dr. Shashi Tharoor Youth Parliament, 2020.
 
-## REFERENCES
+<!-- RESEARCH EXPERIENCE / PUBLICATIONS -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif; 
+  color: #333; 
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
 
-| **Dr. David Agogo**<br><br>Assistant Professor | David Eccles School of Business, University of Utah | (786) 781-2064<br><br><David.agogo@eccles.utah.edu> |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
+  <h2 style="
+    color: #004d66; 
+    letter-spacing: 1px; 
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 25px;
+  ">
+    RESEARCH EXPERIENCE / PUBLICATIONS
+  </h2>
 
-Additional Available Upon Request
+  <!-- Manuscripts in Preparation -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px; margin-top:0;">Manuscripts in Preparation</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>Agogo, D., &amp; Sridhar, T. (in preparation). <em>Reframing the CRISP-DM Framework: Integrating Modern AI Pipelines for Business Analytics Education.</em> University of Utah, David Eccles School of Business.</li>
+    </ul>
+  </div>
+
+  <!-- Applied Research -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px; margin-top:0;">Selected Applied Research and Case Studies</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>Behavioral Bayesian Modeling in cognitive bias processing in consumer analytics, <strong>2024</strong>.</li>
+      <li>Temporal Association Rule Mining in Preventive Maintenance, <strong>2024</strong>.</li>
+      <li>Agile frameworks in the context of AI in short-sprint product organizations, <strong>2024</strong>.</li>
+    </ul>
+  </div>
+
+  <!-- Research Interests -->
+  <div>
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px; margin-top:0;">Research Interests</h3>
+    <p style="margin: 0; line-height: 1.6;">
+      Applied Machine Learning, Maintenance Analytics, Human-AI Collaboration, Data-Driven Decision-Making, 
+      Operations Optimization, and Business Analytics Education.
+    </p>
+  </div>
+
+</div>
+
+
+<!-- TEACHING PORTFOLIO -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    TEACHING PORTFOLIO
+  </h2>
+
+  <!-- Teaching Philosophy -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Teaching Philosophy</h3>
+    <p style="margin: 0; line-height: 1.6;">
+      My teaching philosophy emphasizes experiential learning through data-driven inquiry, connecting statistical and computational concepts to real-world business contexts. 
+      I encourage analytical reasoning, collaboration, and applied experimentation in every course. 
+      Analytical thinking in models, as I believe, is the core foundation to design experiments and advance scientific enquiry in any field.
+    </p>
+  </div>
+
+  <!-- Table of Courses -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Courses Taught Overview</h3>
+    <div style="overflow-x: auto;">
+      <table style="
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 15px;
+        border: none;
+      ">
+        <thead>
+          <tr style="background-color:#004d66; color:#fff; text-align:left;">
+            <th style="padding:8px;">Institution</th>
+            <th style="padding:8px;">Course</th>
+            <th style="padding:8px;">Role</th>
+            <th style="padding:8px;">Level</th>
+            <th style="padding:8px;">Term</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td style="padding:8px;">Engage7x Consulting</td><td style="padding:8px;">Intro To Business Analytics</td><td style="padding:8px;">Professor</td><td style="padding:8px;">Graduate</td><td style="padding:8px;">Fall 2020 – Present</td></tr>
+          <tr style="background-color:#f3f3f3;"><td style="padding:8px;">Engage7x Consulting</td><td style="padding:8px;">Intro To Artificial Intelligence</td><td style="padding:8px;">Professor</td><td style="padding:8px;">Graduate</td><td style="padding:8px;">Spring 2025 – Present</td></tr>
+          <tr><td style="padding:8px;">University of Utah</td><td style="padding:8px;">Frameworks and Decision Models in Management Analytics</td><td style="padding:8px;">Teaching Assistant</td><td style="padding:8px;">Undergraduate</td><td style="padding:8px;">Spring 2022</td></tr>
+          <tr style="background-color:#f3f3f3;"><td style="padding:8px;">NMIMS Global Access School</td><td style="padding:8px;">Exploratory Data Analytics, Big Data, and SQL</td><td style="padding:8px;">Professor</td><td style="padding:8px;">Graduate</td><td style="padding:8px;">Fall 2021 – Spring 2022</td></tr>
+          <tr><td style="padding:8px;">NMIMS Global Access School</td><td style="padding:8px;">Business Statistics for Decision Makers</td><td style="padding:8px;">Professor</td><td style="padding:8px;">Graduate</td><td style="padding:8px;">Fall 2021 – Spring 2022</td></tr>
+          <tr style="background-color:#f3f3f3;"><td style="padding:8px;">Nuclei Technologies</td><td style="padding:8px;">Microsoft Azure AI and Machine Learning</td><td style="padding:8px;">Professor</td><td style="padding:8px;">Professional</td><td style="padding:8px;">Fall 2020 – Spring 2022</td></tr>
+          <tr><td style="padding:8px;">Indian School of Management and Entrepreneurship</td><td style="padding:8px;">Econometrics for Policy</td><td style="padding:8px;">Teaching Assistant</td><td style="padding:8px;">Undergraduate</td><td style="padding:8px;">Fall 2019</td></tr>
+          <tr style="background-color:#f3f3f3;"><td style="padding:8px;">Indian School of Management and Entrepreneurship</td><td style="padding:8px;">Intro To Marketing Analytics</td><td style="padding:8px;">Teaching Assistant</td><td style="padding:8px;">Undergraduate</td><td style="padding:8px;">Spring 2019</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Detailed Courses -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Detailed Courses Taught</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li><strong>Intro To Business Analytics (Graduate, Engage7x Consulting, Fall 2020 – Present):</strong> Descriptive and Inferential Statistics, Hypothesis Testing, Machine Learning Methods, Data Mining Methodologies.</li>
+      <li><strong>Intro To Artificial Intelligence (Graduate, Engage7x Consulting, Spring 2025 – Present):</strong> LLMs, RAGs, Agents, Neural Networks, LangChain, Model Training and Tuning.</li>
+      <li><strong>Frameworks and Decision Models in Management Analytics (Undergraduate, University of Utah, Spring 2022):</strong> Probability, Normal Distribution, Linear Programming, Decision Modeling.</li>
+      <li><strong>Exploratory Data Analytics, Big Data, and SQL (Graduate, NMIMS Global, 2021–2022):</strong> SQL, Python, Outlier Detection, Descriptive Statistics, PySpark.</li>
+      <li><strong>Business Statistics for Decision Makers (Graduate, NMIMS Global, 2021–2022):</strong> Normal Distributions, Bayesian Statistics, A/B Testing, Inferential Statistics.</li>
+      <li><strong>Microsoft Azure AI and Machine Learning (Professional, Nuclei Technologies, 2020–2022):</strong> Azure ML, Azure AI, DP-100, AZ-900, AI-100 Certification Content.</li>
+      <li><strong>Econometrics for Policy (Undergraduate, ISME, Fall 2019):</strong> Regression Analysis, OLS, PLS, Causality, Correlation, Hypothesis Testing.</li>
+      <li><strong>Intro To Marketing Analytics (Undergraduate, ISME, Spring 2019):</strong> Data Mining, Regression, Classification, Clustering, Probability, Descriptive Statistics.</li>
+    </ul>
+  </div>
+
+  <!-- Curriculum Innovation -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Curriculum and Pedagogical Innovation</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>Developed first-of-its-kind MOOC in Analytics and AI for early-career MBAs.</li>
+      <li>Introduced simulation-based learning for Business Decision Making.</li>
+      <li>Implemented case-based learning pedagogy for EDA and Machine Learning courses.</li>
+    </ul>
+  </div>
+
+  <!-- Mentorship -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Mentorship and Advising</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>Supervised 150+ research papers and applied analytics projects.</li>
+      <li>Advised 200+ students on MBA admissions and case-competition strategy.</li>
+    </ul>
+  </div>
+
+  <!-- Teaching Effectiveness -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Teaching Effectiveness</h3>
+    <p style="margin: 0;">Average teaching evaluation: <strong>4.8/5</strong> across two consecutive semesters (Executive MBA Analytics Cohort, NMIMS).</p>
+  </div>
+
+  <!-- Tools and Methods -->
+  <div>
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Teaching Tools and Methods</h3>
+    <p style="margin: 0; line-height: 1.6;">
+      Python, R, SQL, Power BI, Tableau, Excel Solver, Databricks, Snowflake, Azure ML, Microsoft Power Platform, Streamlit, 
+      case-based learning, flipped classrooms, and MOOC platforms.
+    </p>
+  </div>
+
+</div>
+
+
+<!-- INVITED TALKS / PANELS / ACADEMIC ENGAGEMENTS (Aligned Version) -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    INVITED TALKS / PANELS / ACADEMIC ENGAGEMENTS
+  </h2>
+
+  <!-- University of Utah -->
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-weight: 600;">University of Utah – David Eccles School of Business</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 15px; margin-top: 6px;">
+      <tbody>
+        <tr>
+          <td style="padding: 4px 8px;">Panelist, <em>“MSBA Incoming Student Orientation”</em></td>
+          <td style="text-align: right; padding: 4px 8px;">August 2023</td>
+        </tr>
+        <tr style="background-color:#f9f9f9;">
+          <td style="padding: 4px 8px;">Panelist, <em>“International Students Orientation in MSBA and MSIS”</em></td>
+          <td style="text-align: right; padding: 4px 8px;">September 2023</td>
+        </tr>
+        <tr>
+          <td style="padding: 4px 8px;">Panelist, <em>“Data Scientist Industry Perspectives”</em></td>
+          <td style="text-align: right; padding: 4px 8px;">March 2025</td>
+        </tr>
+        <tr style="background-color:#f9f9f9;">
+          <td style="padding: 4px 8px;">Guest Speaker, <em>“AI Project Management”</em></td>
+          <td style="text-align: right; padding: 4px 8px;">October 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Executive Board Member -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+    <p style="margin: 0;; font-weight: 600;">Served as Executive Board Member for multiple international Model UN Councils</p>
+    <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2019 – 2020</p>
+  </div>
+
+  <!-- MUN Mentor / Adjudicator -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <p style="margin: 0;; font-weight: 600;">Regular Mentor and Adjudicator for national and international Model UN and debate events.</p>
+    <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2018 – 2021</p>
+  </div>
+
+</div>
+
+
+<!-- PROFESSIONAL EXPERIENCE -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 950px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    PROFESSIONAL EXPERIENCE
+  </h2>
+
+  <table style="width:100%; border-collapse:collapse; font-size:15px;">
+    <tbody>
+
+  <!-- Senior Data Scientist - R&D -->
+  <tr>
+    <td style="vertical-align: top; padding: 10px 8px;">
+      <p style="margin:0; font-weight:600;">Senior Data Scientist – Research and Development</p>
+      <p style="margin:2px 0 6px; font-style:italic;">Swire Coca-Cola USA</p>
+      <ul style="margin: 0 0 0 18px; padding-left: 0;">
+        <li>Developed and deployed LLM frameworks in Microsoft Azure OpenAI for advanced analytics and automation use cases.</li>
+        <li>Co-created an LLM-driven ETL pipeline for procurement invoice processing with the Data Engineering team, improving data structuring and reducing manual intervention.</li>
+        <li>Conducted pilot studies in predictive maintenance, testing equipment-asset strategy models for multi-plant scaling.</li>
+        <li>Partnered with IT and leadership to define team growth strategy, contributing to onboarding, technical maturity, and project-costing methodologies under the new IT Operating Model.</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; text-align: right; white-space:nowrap; padding: 10px 8px;">Draper, UT</td>
+    <td style="vertical-align: top; text-align: right; white-space:nowrap; padding: 10px 8px;">May 2025 – Present</td>
+  </tr>
+
+  <!-- Data Scientist - R&D -->
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Data Scientist – Research and Development</p>
+      <p style="margin:2px 0 0; font-style:italic;">Swire Coca-Cola USA</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Draper, UT</td>
+    <td style="text-align:right; padding:10px 8px;">July 2024 – May 2025</td>
+  </tr>
+
+  <!-- Data Scientist - ERA -->
+  <tr>
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Data Scientist – Enterprise Research and Analytics</p>
+      <p style="margin:2px 0 0; font-style:italic;">Swire Coca-Cola USA</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Draper, UT</td>
+    <td style="text-align:right; padding:10px 8px;">June 2023 – July 2024</td>
+  </tr>
+
+  <!-- Data Science Intern -->
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Data Science Intern – Macroeconomics</p>
+      <p style="margin:2px 0 0; font-style:italic;">Wheeler Machinery Company (Caterpillar Mining Equipment)</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Salt Lake City, UT</td>
+    <td style="text-align:right; padding:10px 8px;">February 2022 – March 2022</td>
+  </tr>
+
+  <!-- Group Head -->
+  <tr>
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Group Head – Analytics, Insights and Strategy</p>
+      <p style="margin:2px 0 0; font-style:italic;">Kren Martech</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Mumbai, IN</td>
+    <td style="text-align:right; padding:10px 8px;">August 2020 – July 2021</td>
+  </tr>
+
+  <!-- Avionics Engineer -->
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Avionics Engineer</p>
+      <p style="margin:2px 0 0; font-style:italic;">Space Technology and Aeronautical Rocketry</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Surat, IN</td>
+    <td style="text-align:right; padding:10px 8px;">October 2020 – November 2020</td>
+  </tr>
+
+  <!-- Senior Data Analyst -->
+  <tr>
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Senior Data Analyst</p>
+      <p style="margin:2px 0 0; font-style:italic;">WNS Global Services</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Mumbai, IN</td>
+    <td style="text-align:right; padding:10px 8px;">October 2019 – January 2020</td>
+  </tr>
+
+  <!-- Client Solutions Engineer -->
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Client Solutions Engineer – Martech</p>
+      <p style="margin:2px 0 0; font-style:italic;">VMLY&amp;R Asia</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Mumbai, IN</td>
+    <td style="text-align:right; padding:10px 8px;">June 2019 – October 2019</td>
+  </tr>
+
+  <!-- Risk Analytics Intern -->
+  <tr>
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Risk Analytics Intern</p>
+      <p style="margin:2px 0 0; font-style:italic;">TransAsia Risk Advisors</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Mumbai, IN</td>
+    <td style="text-align:right; padding:10px 8px;">April 2019 – June 2019</td>
+  </tr>
+
+  <!-- Brand Collaborations Intern -->
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:10px 8px;">
+      <p style="margin:0; font-weight:600;">Intern – Brand Collaborations</p>
+      <p style="margin:2px 0 0; font-style:italic;">The Paperless Postcards Venture Pvt Ltd</p>
+    </td>
+    <td style="text-align:right; padding:10px 8px;">Mumbai, IN</td>
+    <td style="text-align:right; padding:10px 8px;">April 2017 – June 2017</td>
+  </tr>
+
+  </tbody>
+  </table>
+</div>
+
+
+<!-- TECHNICAL AND ANALYTICAL COMPETENCIES -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    TECHNICAL AND ANALYTICAL COMPETENCIES
+  </h2>
+
+  <div style="display: flex; flex-direction: column; gap: 16px; font-size: 15px; line-height: 1.6;">
+
+  <!-- Programming -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Programming and Data Analysis</p>
+    <p style="margin: 2px 0 0 16px;">
+      Python (<em>NumPy, Pandas, Scikit-learn, Statsmodels, Plotly, Matplotlib, Seaborn</em>), 
+      R (<em>tidyverse, caret</em>), SQL, PySpark, Databricks Notebooks, Jupyter, Excel.
+    </p>
+  </div>
+
+  <!-- Machine Learning -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Machine Learning and Statistical Modeling</p>
+    <p style="margin: 2px 0 0 16px;">
+      Regression and Classification Models, Time-Series Forecasting, Survival Analysis, 
+      Crow-AMSAA Reliability Models, Clustering and Segmentation, ANOVA, Hypothesis Testing, 
+      NLP, and LLM Applications.
+    </p>
+  </div>
+
+  <!-- Data Engineering -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Data Engineering and Cloud Platforms</p>
+    <p style="margin: 2px 0 0 16px;">
+      Microsoft Azure (<em>Azure ML, Blob Storage, OpenAI Service</em>), Azure DevOps, 
+      Power Automate, Power BI, Snowflake, Tableau, Streamlit.
+    </p>
+  </div>
+
+  <!-- Operations -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Operations and Reliability Analytics</p>
+    <p style="margin: 2px 0 0 16px;">
+      Preventive Maintenance Modeling, MTTR / MTBF / MTBR Analysis, Risk and Safety Analytics, 
+      Reliability Growth Modeling, Linear Programming and Process Optimization Frameworks.
+    </p>
+  </div>
+
+  <!-- Project Management -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Project Management and Methodologies</p>
+    <p style="margin: 2px 0 0 16px;">
+      Agile, Scrum, Lean Six Sigma (<em>Green Belt Certified</em>), ITIL4 Foundation, 
+      Design Thinking, and Change Management.
+    </p>
+  </div>
+
+  <!-- Business Domain -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Business and Domain Expertise</p>
+    <p style="margin: 2px 0 0 16px;">
+      Supply Chain and Operations Analytics, Manufacturing Reliability, Safety and Risk Analytics, 
+      Marketing Analytics, and Financial Forecasting.
+    </p>
+  </div>
+
+  <!-- Productivity -->
+  <div>
+    <p style="margin: 0; font-weight: 600; color: #004d66;">Productivity and Collaboration Tools</p>
+    <p style="margin: 2px 0 0 16px;">
+      Microsoft 365, PowerPoint (<em>Data Storytelling</em>), GitHub, SharePoint.
+    </p>
+  </div>
+
+  </div>
+</div>
+
+
+<!-- HONORS AND AWARDS -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    HONORS AND AWARDS
+  </h2>
+
+  <!-- Academic and Research Honors -->
+  <div style="margin-bottom: 20px;">
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Academic and Research Honors</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0; line-height: 1.6;">
+      <li><strong>Emerging Leader Award (Valedictorian)</strong>, Indian School of Management and Entrepreneurship, 2019</li>
+      <li><strong>Youth Leadership Award</strong>, Rotaract Club of Mumbai, 2019</li>
+      <li><strong>Academic Excellence Award</strong> as Student Mentor, CATKing Educare, 2018</li>
+      <li><strong>National Policy Essay Writing Competition – Winner</strong>, United Nations Information Center for India and Bhutan, 2014</li>
+      <li><strong>Intracollegiate Business Case Competition</strong> – Winner (2017); Runner-Up (2016)</li>
+      <li><strong>Interstate Science Competition Series – Winner</strong>, Iken Scientifica, 2009</li>
+    </ul>
+  </div>
+
+  <!-- Literary and Public Speaking -->
+  <div>
+    <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Literary and Public-Speaking Achievements (Selected Highlights)</h3>
+    <ul style="margin: 0 0 0 20px; padding-left: 0; line-height: 1.6;">
+      <li>Multiple first-place awards in intercollegiate debates, elocutions, and group discussions (2015–2018), including Best Speaker and Best Delegate distinctions.</li>
+      <li>Recognized as <strong>Outstanding Delegate</strong> and <strong>Executive Board Member</strong> at National Model United Nations Councils (UNSC, UNHRC, WHO, ECOSOC, SAARC, ICJ).</li>
+      <li><strong>Runner-Up</strong>, Dr. Shashi Tharoor Youth Parliament, 2020.</li>
+    </ul>
+  </div>
+
+</div>
+
+
+<!-- REFERENCES -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    REFERENCES
+  </h2>
+
+  <div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; font-size: 15px; border: none;">
+      <thead style="background-color: #004d66; color: white;">
+        <tr>
+          <th style="text-align: left; padding: 10px;">Name & Title</th>
+          <th style="text-align: left; padding: 10px;">Affiliation</th>
+          <th style="text-align: left; padding: 10px;">Contact Information</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px; vertical-align: top;">
+            <strong>Dr. David Agogo</strong><br>
+            Assistant Professor
+          </td>
+          <td style="padding: 10px; vertical-align: top;">
+            David Eccles School of Business,<br>
+            University of Utah
+          </td>
+          <td style="padding: 10px; vertical-align: top;">
+            (786) 781-2064<br>
+            <a href="mailto:David.agogo@eccles.utah.edu" style="color:#004d66; text-decoration:none;">
+              David.agogo@eccles.utah.edu
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="margin-top: 20px; text-align: center; font-style: italic; color: #444;">
+    Additional references available upon request.
+  </p>
+</div>
