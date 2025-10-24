@@ -1,3 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tejas Sridhar | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+  <!-- ① HAMBURGER MENU GOES HERE -->
+  <div class="nav-container">
+    <div class="hamburger" onclick="toggleMenu(this)">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <div class="menu" id="menu">
+      <a href="/index.html">Home</a>
+      <a href="https://medium.com/@tejassridhar" target="_blank">Blogs</a>
+      <a href="mailto:tejassridhar.acad@gmail.com">Contact</a>
+    </div>
+  </div>
+
+  <style>
+    .nav-container {
+      position: fixed;
+      top: 10px;
+      right: 20px;
+      background: transparent;
+      z-index: 1000;
+    }
+    .hamburger {
+      cursor: pointer;
+      width: 20px;
+      height: 14px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .hamburger span {
+      height: 3px;
+      width: 100%;
+      background-color: #004d66;
+      border-radius: 2px;
+      transition: 0.3s;
+    }
+    .menu {
+      position: absolute;
+      top: 35px;
+      right: 0;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      display: none;
+      min-width: 140px;
+      text-align: right;
+    }
+    .menu a {
+      display: block;
+      padding: 10px 15px;
+      color: #004d66;
+      text-decoration: none;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 14px;
+      border-bottom: 1px solid #eee;
+    }
+    .menu a:last-child { border-bottom: none; }
+    .menu a:hover { background: #f2f9fa; }
+    .menu.show { display: block; }
+    .hamburger.active span:nth-child(1) { transform: rotate(45deg) translateY(8px); }
+    .hamburger.active span:nth-child(2) { opacity: 0; }
+    .hamburger.active span:nth-child(3) { transform: rotate(-45deg) translateY(-8px); }
+  </style>
+
+  <script>
+    function toggleMenu(el) {
+      el.classList.toggle('active');
+      document.getElementById('menu').classList.toggle('show');
+    }
+  </script>
+
 <div style="
   position: relative;
   width: 100%;
