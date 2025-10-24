@@ -1,8 +1,8 @@
 title: "Tejas Sridhar"
 description: "Data Scientist | Educator | Researcher"
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 logo: /assets/profile.jpg
-show_downloads: true
+show_downloads: false
 github:
   is_project_page: false
 social_links:
