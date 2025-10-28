@@ -1067,7 +1067,7 @@
     <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Literary and Public-Speaking Achievements (Selected Highlights)</h3>
     <ul style="margin: 0 0 0 20px; padding-left: 0; line-height: 1.6;">
       <li>Multiple first-place awards in intercollegiate debates, elocutions, and group discussions (2015–2018), including Best Speaker and Best Delegate distinctions.</li>
-      <li>Recognized as <strong>Outstanding Delegate</strong> and <strong>Executive Board Member</strong> at National Model United Nations Councils (UNSC, UNHRC, WHO, ECOSOC, SAARC, ICJ).</li>
+      <li>Recognized as <strong>Outstanding Delegate</strong> and <strong>Executive Board Member</strong> at National and International Model United Nations Councils (UNSC, UNHRC, WHO, ECOSOC, SAARC, ICJ).</li>
       <li><strong>Runner-Up</strong>, Dr. Shashi Tharoor Youth Parliament, 2020.</li>
     </ul>
   </div>
