@@ -1088,7 +1088,7 @@
 
   <div style="overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse; font-size: 15px; border: none;">
-      <thead style="background-color: #004d66; color: white;">
+      <thead style="background-color: white; color: #004d66;">
         <tr>
           <th style="text-align: left; padding: 10px;">Name & Title</th>
           <th style="text-align: left; padding: 10px;">Affiliation</th>
