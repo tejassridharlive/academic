@@ -775,6 +775,11 @@
     <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2018 – 2021</p>
   </div>
 
+  <!-- MUN Mentor / Adjudicator -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <p style="margin: 0;; font-weight: 600;">Guest lecturer at Sandeep University School of Law, India, on International Law and Foreign Policy.</p>
+    <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2019</p>
+  </div>
 </div>
 
 
