@@ -1106,7 +1106,6 @@
             University of Utah
           </td>
           <td style="padding: 10px; vertical-align: top;">
-            (786) 781-2064<br>
             <a href="mailto:David.agogo@eccles.utah.edu" style="color:#004d66; text-decoration:none;">
               David.agogo@eccles.utah.edu
             </a>
