@@ -122,7 +122,7 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     ">
 
-  <h2 style="margin: 0; font-size: 26px; color: #004d66;">Tejas Sridhar</h2>
+  <h2 style="margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 26px; color: #004d66;">Tejas Sridhar</h2>
   <p style="margin: 6px 0 12px; font-size: 16px; color: #333;">
     Senior Data Scientist&nbsp;|&nbsp;Educator&nbsp;|&nbsp;Researcher
   </p>
