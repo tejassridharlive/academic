@@ -775,9 +775,15 @@
     <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2018 – 2021</p>
   </div>
   <br>
-  <!-- MUN Mentor / Adjudicator -->
+    <!-- News Debate Panelist -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <p style="margin: 0;; font-weight: 600;">Guest lecturer at Sandeep University School of Law, India, on International Law and Foreign Policy.</p>
+    <p style="margin: 0;; font-weight: 600;">Panelist on an online newsroom debate in <em> Hamdard University, Pakistan</em> discussing the verdict of the International Court of Justice on Kulbhushan Jadhav</p>
+    <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2020</p>
+  </div>
+  <br>
+  <!-- Guest Lecture in International Law -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <p style="margin: 0;; font-weight: 600;">Guest lecturer at <em> Sandeep University School of Law, India, </em> on International Law and Foreign Policy.</p>
     <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2019</p>
   </div>
 </div>
