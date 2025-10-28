@@ -762,19 +762,19 @@
       </tbody>
     </table>
   </div>
-
+  <br>
   <!-- Executive Board Member -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
     <p style="margin: 0;; font-weight: 600;">Served as Executive Board Member for multiple international Model UN Councils</p>
     <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2019 – 2020</p>
   </div>
-
+  <br>
   <!-- MUN Mentor / Adjudicator -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <p style="margin: 0;; font-weight: 600;">Regular Mentor and Adjudicator for national and international Model UN and debate events.</p>
     <p style="margin: 0; text-align: right; min-width: 200px;; font-weight: 600;">2018 – 2021</p>
   </div>
-
+  <br>
   <!-- MUN Mentor / Adjudicator -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <p style="margin: 0;; font-weight: 600;">Guest lecturer at Sandeep University School of Law, India, on International Law and Foreign Policy.</p>
