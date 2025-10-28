@@ -1,11 +1,17 @@
-title: ""
-description: ""
+title: "Tejas Sridhar"
+description: "Senior Data Scientist | Educator | Researcher"
 # theme: jekyll-theme-minimal
-logo: 
+
+logo: /assets/profile.jpg
+favicon: /assets/favicon.ico
+
 show_downloads: false
+
 github:
   is_project_page: false
+
 social_links:
   linkedin: https://linkedin.com/in/tejas-sridhar
   github: https://github.com/tejassridharlive
   email: tejassridhar.acad@gmail.com
+
