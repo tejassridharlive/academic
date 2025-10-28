@@ -147,7 +147,18 @@
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 ">
 
-  <h2 style="color:#004d66; text-align:center; letter-spacing:1px; margin-top:0;">SUMMARY</h2>
+<h2 style="
+  color: #004d66;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+">
+  ABOUT
+</h2>
 
   <p style="font-size:15.5px; line-height:1.6; color:#333;">
   <strong>Senior Data Scientist</strong> in the <em>Research & Development</em> team at <strong>Swire Coca-Cola USA</strong> 
