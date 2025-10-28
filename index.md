@@ -233,7 +233,7 @@
   <!-- Entry 3 -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="flex: 1;">
-      <p style="margin: 0; font-weight: 600;">Integrated Program (E-MBA) in Business Analytics</p>
+      <p style="margin: 0; font-weight: 600;">Integrated Program (E-MBA) in Business Analytics, Operations</p>
       <p style="margin: 4px 0 0; font-style: italic;">Indian Institute of Management</p>
     </div>
     <div style="text-align: right; min-width: 160px;">
