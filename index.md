@@ -1,36 +1,8 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Favicon links -->
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-  <link rel="apple-touch-icon" href="/assets/favicon-512.png">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
-
-  <!-- Open Graph (for LinkedIn / Facebook preview) -->
-  <meta property="og:title" content="Tejas Sridhar | Portfolio">
-  <meta property="og:description" content="Senior Data Scientist | Educator | Researcher">
-  <meta property="og:image" content="/assets/profile.jpg">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://tejassridharlive.github.io/">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;600&display=swap" rel="stylesheet">
-
-  <!-- Base styling -->
-  <style>
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      background-color: #ffffff;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    a { color: #004d66; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <title>Tejas Sridhar | Portfolio</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
 
 
