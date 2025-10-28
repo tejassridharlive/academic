@@ -3,10 +3,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Tejas Sridhar | Portfolio</title>
-  <meta name="description" content="Senior Data Scientist | Educator | Researcher specializing in AI, Analytics, and Operations.">
-  <meta name="author" content="Tejas Sridhar">
-
   <!-- Favicon links -->
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
