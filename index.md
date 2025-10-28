@@ -653,7 +653,7 @@
         border: none;
       ">
         <thead>
-          <tr style="background-color:#004d66; color:#fff; text-align:left;">
+          <tr style="background-color:white; color:#004d66; text-align:left;">
             <th style="padding:8px;">Institution</th>
             <th style="padding:8px;">Course</th>
             <th style="padding:8px;">Role</th>
