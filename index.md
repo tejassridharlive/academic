@@ -1073,3 +1073,31 @@
   </div>
 
 </div>
+
+
+<!-- REFERENCES -->
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+  background: linear-gradient(to right, #ffffff, #f9f9f9);
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+">
+
+  <h2 style="
+    color: #004d66;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+  ">
+    REFERENCES
+  </h2>
+
+  <p style="margin-top: 20px; text-align: center; font-style: italic; color: #444;">
+    References available upon request
+  </p>
+</div>
