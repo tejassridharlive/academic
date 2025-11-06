@@ -694,6 +694,7 @@
   <div style="margin-bottom: 25px;">
     <h3 style="color:#004d66; font-size:17px; margin-bottom:8px;">Curriculum and Pedagogical Innovation</h3>
     <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>Audited and reviewed MOOC creation for upskilling initiatives in Data Science and Analytics for grad students in Nigeria.
       <li>Developed first-of-its-kind MOOC in Analytics and AI for early-career MBAs.</li>
       <li>Introduced simulation-based learning for Business Decision Making.</li>
       <li>Implemented case-based learning pedagogy for EDA and Machine Learning courses.</li>
