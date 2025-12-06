@@ -592,6 +592,7 @@
   <div style="margin-bottom: 20px;">
     <h3 style="color:#004d66; font-size:17px; margin-bottom:8px; margin-top:0;">Selected Applied Research and Case Studies</h3>
     <ul style="margin: 0 0 0 20px; padding-left: 0;">
+      <li>A Novel service performance metric (Mean Time to Escalate) to improve SLA accountability and escalation practices within ITIL frameworks, <strong>2025</strong>.</li>
       <li>Multi-domain framework linking imagined competition, ego-signaling, and self-actualization in motorsport and organizational behavior contexts, <strong>2025</strong>.</li>
       <li>Integrated consumer decision-making model combining motivational hierarchy and cognitive processing frameworks, <strong>2025</strong>.</li>
       <li>Dependency-Driven Change Advisory Board Model for Agile Change Enablement, <strong>2025</strong>.</li>
