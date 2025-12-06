@@ -833,33 +833,14 @@
       <p style="margin:2px 0 6px; font-style:italic;">Swire Coca-Cola USA</p>
       <ul style="margin: 0 0 0 18px; padding-left: 0;">
         <li>Developed and deployed LLM frameworks in Microsoft Azure OpenAI for advanced analytics and automation use cases.</li>
+        <li>Data Science lead for all Supply Chain and Logistics AI product initiatives </li>
         <li>Co-created an LLM-driven ETL pipeline for procurement invoice processing with the Data Engineering team, improving data structuring and reducing manual intervention.</li>
         <li>Conducted pilot studies in predictive maintenance, testing equipment-asset strategy models for multi-plant scaling.</li>
         <li>Partnered with IT and leadership to define team growth strategy, contributing to onboarding, technical maturity, and project-costing methodologies under the new IT Operating Model.</li>
       </ul>
     </td>
     <td style="vertical-align: top; text-align: right; white-space:nowrap; padding: 10px 8px;">Draper, UT</td>
-    <td style="vertical-align: top; text-align: right; white-space:nowrap; padding: 10px 8px;">May 2025 – Present</td>
-  </tr>
-
-  <!-- Data Scientist - R&D -->
-  <tr style="background-color:#f9f9f9;">
-    <td style="padding:10px 8px;">
-      <p style="margin:0; font-weight:600;">Data Scientist – Research and Development</p>
-      <p style="margin:2px 0 0; font-style:italic;">Swire Coca-Cola USA</p>
-    </td>
-    <td style="text-align:right; padding:10px 8px;">Draper, UT</td>
-    <td style="text-align:right; padding:10px 8px;">July 2024 – May 2025</td>
-  </tr>
-
-  <!-- Data Scientist - ERA -->
-  <tr>
-    <td style="padding:10px 8px;">
-      <p style="margin:0; font-weight:600;">Data Scientist – Enterprise Research and Analytics</p>
-      <p style="margin:2px 0 0; font-style:italic;">Swire Coca-Cola USA</p>
-    </td>
-    <td style="text-align:right; padding:10px 8px;">Draper, UT</td>
-    <td style="text-align:right; padding:10px 8px;">June 2023 – July 2024</td>
+    <td style="vertical-align: top; text-align: right; white-space:nowrap; padding: 10px 8px;">June 2023 – Present</td>
   </tr>
 
   <!-- Data Science Intern -->
